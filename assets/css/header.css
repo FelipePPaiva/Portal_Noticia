@@ -1,11 +1,8 @@
-.header-menu{
-    display: flex;
-    justify-content: space-between;
-    padding: 20px 32px;               
-
+#primary{
+    padding-block: 20px;
 }
 
-.header-menu h1{
+#primary h1{
     font: var(--h1);
     text-transform: uppercase;
     color: var(--brand-color-light);

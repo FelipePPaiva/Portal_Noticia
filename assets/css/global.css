@@ -31,3 +31,12 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+
+/* utility-first */
+.grid{
+    display: grid;
+}
+
+.grid-flow-col{
+    grid-auto-flow: column;
+}
